@@ -1,12 +1,10 @@
 <div align="center">
 
-<img src="./assets/hero.svg" alt="Ankush Mehra — AI Automation Engineer" width="100%" />
-
-<p></p>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=8B5CF6&center=true&vCenter=true&width=760&lines=AI+Automation+Engineer+%7C+SaaS+Builder;n8n+Specialist+%7C+Voice+AI+Developer;Founder+of+ADCODEZ;I+build+products%2C+not+clones." alt="Typing SVG" />
-</a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg" />
+  <img src="./assets/hero-dark.svg" alt="Ankush Mehra — AI Automation Engineer terminal hero" width="100%" />
+</picture>
 
 <p></p>
 
