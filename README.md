@@ -1,0 +1,158 @@
+<div align="center">
+
+<img src="./assets/hero.svg" alt="Ankush Mehra — AI Automation Engineer" width="100%" />
+
+<p></p>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=8B5CF6&center=true&vCenter=true&width=760&lines=AI+Automation+Engineer+%7C+SaaS+Builder;n8n+Specialist+%7C+Voice+AI+Developer;Founder+of+ADCODEZ;I+build+products%2C+not+clones." alt="Typing SVG" />
+</a>
+
+<p></p>
+
+<a href="https://github.com/ankushcodez"><img src="https://komarev.com/ghpvc/?username=ankushcodez&label=Profile+Views&color=8b5cf6&style=for-the-badge" alt="Profile views" /></a>
+<img src="https://img.shields.io/badge/Focus-AI_Automation-8b5cf6?style=for-the-badge" alt="Focus" />
+<img src="https://img.shields.io/badge/Open_to-Clients_%26_Collabs-06b6d4?style=for-the-badge" alt="Open to work" />
+
+</div>
+
+---
+
+## 👋 About Me
+
+```yaml
+name:        Ankush Mehra
+role:        AI Automation Engineer & SaaS Builder
+founder:     ADCODEZ  # AI automation studio
+based_in:    India 🇮🇳
+i_build:     AI automation systems, voice agents, and SaaS products
+philosophy:  "Replace repetitive work with AI — ship products, not clones."
+```
+
+I'm an **AI Automation Engineer** who turns manual, repetitive business processes into **autonomous AI systems** — lead generation, voice agents, CRMs, and full-stack SaaS. I run **ADCODEZ**, where I build automation that actually ships and makes money.
+
+- 🤖 I design **multi-agent AI systems** and **n8n workflows**
+- 📞 I build **voice AI agents** (Retell / Vapi / OpenAI)
+- 🧰 I ship **full-stack SaaS** with React, Next.js, TypeScript & Node
+- 🌱 Currently going deeper into **Agentic AI & LangGraph**
+
+---
+
+## 🚀 Featured Projects
+
+| Project | What it is | Stack |
+|---------|-----------|-------|
+| [**AgencyOS AI**](https://github.com/ankushcodez/agencyos-ai) | Operating system for AI-automation agencies | Next.js 16 · Firebase · TS |
+| [**AI Marketing System**](https://github.com/ankushcodez/ai-marketing-system) | Full-stack digital-marketing automation platform | React · TanStack · Supabase |
+| [**AI Social Media Manager**](https://github.com/ankushcodez/ai-social-media-manager) | 6 AI agents that run your socials end-to-end | Node · Multi-Agent · Ollama |
+| [**AI-Attend**](https://github.com/ankushcodez/ai-attend) | Face-recognition + GPS attendance & payroll | HTML · JS · GSAP |
+| [**Real-Estate AI OS**](https://github.com/ankushcodez/realestate-ai-architecture) | Speed-to-lead automation architecture & case study | n8n · Meta CAPI · Airtable |
+
+> 🔒 Selected commercial products (a client CRM and an accounting SaaS) are kept in private repos.
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+**Frameworks & Runtime**
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![TanStack](https://img.shields.io/badge/TanStack-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+
+**AI & Automation**
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+
+**Data & Cloud**
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ankushcodez&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=8b5cf6&icon_color=06b6d4&text_color=c7cfe2&bg_color=0d0b1f" alt="GitHub stats" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=ankushcodez&hide_border=true&background=0d0b1f&stroke=8b5cf6&ring=8b5cf6&fire=06b6d4&currStreakLabel=c7cfe2&sideLabels=c7cfe2&dates=8b93a7&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub streak" />
+
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankushcodez&layout=compact&hide_border=true&langs_count=10&title_color=8b5cf6&text_color=c7cfe2&bg_color=0d0b1f" alt="Top languages" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=ankushcodez&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8" alt="Trophies" />
+
+</div>
+
+### 🐍 Contribution Snake
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/ankushcodez/ankushcodez/output/snake.svg)
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+```text
+Building:
+  - AgencyOS AI ............ operating system for AI agencies
+  - AI Voice Agents ........ Retell / Vapi calling systems
+  - Client automation ...... lead-gen + outreach pipelines
+
+Learning:
+  - Agentic AI & LangGraph
+  - Advanced n8n orchestration
+  - Cloud scaling (Docker / Kubernetes)
+
+Scaling:
+  - ADCODEZ → a global AI-automation studio
+```
+
+---
+
+## 🗺️ The Journey
+
+```mermaid
+timeline
+    2024 : Learning to code & automate
+    2025 : Freelancing · first AI automation clients
+    2026 : Building ADCODEZ · SaaS products · voice agents
+    2027 : Global AI-automation studio & products
+```
+
+---
+
+## ⚡ Fun Facts
+
+- ☕ Best automations get built at 2 AM
+- 🤖 I'd rather spend 4 hours automating a 10-minute task (and I'll do it again)
+- 🚀 I build **products**, not clones
+- 🎙️ My AI voice agents make calls so I don't have to
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="mailto:ankush.codez@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<!-- Replace # with your real links -->
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+
+</div>
+
+<div align="center">
+<sub>💜 Building the future of work, one automation at a time.</sub>
+</div>
