@@ -8,9 +8,12 @@
 
 <p></p>
 
+<!-- Profile Meta Badges -->
 <a href="https://github.com/ankushcodez"><img src="https://komarev.com/ghpvc/?username=ankushcodez&label=Profile+Views&color=8b5cf6&style=for-the-badge" alt="Profile views" /></a>
-<img src="https://img.shields.io/badge/Focus-AI_Automation-8b5cf6?style=for-the-badge" alt="Focus" />
-<img src="https://img.shields.io/badge/Open_to-Clients_%26_Collabs-06b6d4?style=for-the-badge" alt="Open to work" />
+<a href="https://github.com/ankushcodez?tab=followers"><img src="https://img.shields.io/github/followers/ankushcodez?label=Followers&style=for-the-badge&color=8b5cf6&logo=github&logoColor=white&labelColor=1a1a2e" /></a>
+<img src="https://img.shields.io/badge/Focus-AI_Automation-8b5cf6?style=for-the-badge&labelColor=1a1a2e" alt="Focus" />
+<img src="https://img.shields.io/badge/Open_to-Clients_%26_Collabs-06b6d4?style=for-the-badge&labelColor=1a1a2e" alt="Open to work" />
+<img src="https://img.shields.io/badge/Location-India_🇮🇳-FF9933?style=for-the-badge&labelColor=1a1a2e" />
 
 </div>
 
@@ -33,6 +36,24 @@ I'm an **AI Automation Engineer** who turns manual, repetitive business processe
 - 📞 I build **voice AI agents** (Retell / Vapi / OpenAI)
 - 🧰 I ship **full-stack SaaS** with React, Next.js, TypeScript & Node
 - 🌱 Currently going deeper into **Agentic AI & LangGraph**
+
+---
+
+## 🏅 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github.com/Schweinepriester/github-profile-achievements/blob/main/images/quickdraw-default.png?raw=true" width="80" title="Quickdraw — Close an Issue/PR within 5 minutes" />
+<img src="https://github.com/Schweinepriester/github-profile-achievements/blob/main/images/pull-shark-default.png?raw=true" width="80" title="Pull Shark — Merge 2+ pull requests" />
+<img src="https://github.com/Schweinepriester/github-profile-achievements/blob/main/images/yolo-default.png?raw=true" width="80" title="YOLO — Merge a PR without code review" />
+<img src="https://github.com/Schweinepriester/github-profile-achievements/blob/main/images/galaxy-brain-default.png?raw=true" width="80" title="Galaxy Brain — Get 2 answers accepted in GitHub Discussions" />
+<img src="https://github.com/Schweinepriester/github-profile-achievements/blob/main/images/starstruck-default.png?raw=true" width="80" title="Starstruck — Get a repo to 16 stars" />
+<img src="https://github.com/Schweinepriester/github-profile-achievements/blob/main/images/pair-extraordinaire-default.png?raw=true" width="80" title="Pair Extraordinaire — Co-author a merged PR" />
+<img src="https://github.com/Schweinepriester/github-profile-achievements/blob/main/images/public-sponsor-default.png?raw=true" width="80" title="Public Sponsor — Sponsor any GitHub user or project" />
+
+*Collecting all GitHub Achievement badges 🏆*
+
+</div>
 
 ---
 
@@ -68,11 +89,21 @@ I'm an **AI Automation Engineer** who turns manual, repetitive business processe
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![Retell AI](https://img.shields.io/badge/Retell_AI-FF6B35?style=for-the-badge&logoColor=white)
+![Vapi](https://img.shields.io/badge/Vapi-5E60CE?style=for-the-badge&logoColor=white)
 
 **Data & Cloud**
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Airtable](https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=airtable&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+**Tools & Platforms**
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ---
 
