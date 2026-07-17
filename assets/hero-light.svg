@@ -108,8 +108,6 @@
         <text x="524" y="192" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.6;0.62;0.79;0.8;1" dur="12s" repeatCount="indefinite"/>Voice AI Developer</text>
         <text x="524" y="192" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.8;0.82;0.99;1" dur="12s" repeatCount="indefinite"/>SaaS Builder</text>
       </g>
-      <rect x="524" y="180" width="9" height="16" fill="#06B6D4"><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.51;1" dur="1s" repeatCount="indefinite"/></rect>
-
       <line x1="508" y1="214" x2="1122" y2="214" stroke="#0F172A" stroke-opacity="0.08"/>
 
       <g font-size="14" fill="#0F172A">
